@@ -1,4 +1,6 @@
-
+//Case	Time Complexity	Space Complexity
+//Best	O(log n)	O(log n)
+//Worst	O(n)	O(n)
 class Solution {
     
     public int rangeSumBST(TreeNode root, int low, int high) {
